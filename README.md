@@ -1,4 +1,7 @@
-Instructions to Launch Container:
+Download Container:
+> sudo docker pull carver/geth
+
+Launch Container:
 > sudo docker run -i -t carver/geth bash
 
 In the Container:
